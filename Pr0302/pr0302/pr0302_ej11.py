@@ -8,4 +8,4 @@ producto = input("Ingrese el nombre del producto: ")
 precio = float(input("Ingrese el precio: "))
 unidades = float(input("Ingrese la cantidad de unidades."))
 
-print(f"Producto: {producto}, precio: {precio: 6.2f}, unidades: {unidades: 8.2f}")
+print(f"Producto: {producto}, precio: {precio: 06.2f}, unidades: {unidades: 08.2f}")
